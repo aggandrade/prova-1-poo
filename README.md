@@ -1,7 +1,7 @@
 # prova-1-poo
-Primeira prova da disciplina de POO em Java<br>
+Primeira prova da disciplina de POO em Java<br><br>
 Nota: 10/10<br>
-5 questões de conceituais e 1 prática<br>
+5 questões conceituais e 1 prática<br>
 
 Questão 06: (5,0 pts) No computador, construa uma classe com o nome PessoaFisica com os atributos nome
 e CPF, o programa principal deve apresentar a seguinte tela: <br><br>
